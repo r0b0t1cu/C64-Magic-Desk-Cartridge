@@ -94,6 +94,10 @@ To burn a `.bin` file to a 29F040, use a programmer such as:
 - GQ-4X
 - Any EPROM programmer that supports the 29F040
 
+| Front | Back |
+|-------|------|
+| ![Front](IMG_5998.jpg) | ![Back](IMG_5999.jpg) |
+
 ---
 
 ## Creating Your Own ROM Image
