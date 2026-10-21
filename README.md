@@ -112,6 +112,16 @@ The generator creates a menu-driven launcher that lets you select titles directl
 
 ---
 
+If you enjoy my projects and would like to support my work, you can do so through PCBWay. You can also order the PCBs for this project directly from the link below. Every bit of support is appreciated!
+
+<p>
+  <a href="https://www.pcbway.com/project/shareproject/C64_Magic_Desk_Cartridge_f7c92d75.html">
+    <img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCBWay — Support my projects" /></a>
+  </a>
+</p>
+
+---
+
 ## Building the PCB
 
 1. **Order the PCB** — use the Gerber files in `gerbers/`. Standard 2-layer 1.6mm FR4. JLCPCB, PCBWay, etc.
